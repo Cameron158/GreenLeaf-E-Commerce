@@ -54,7 +54,7 @@ This portfolio showcases my practical GRC skills through a simulated engagement 
 | **An Auditor** | Open `05 Audit Reports/Audit_Report_GreenLeaf.pdf` to see NC reports. |
 | **A Privacy Officer** | Open `07_Privacy_DPIA/DPIA_GreenLeaf_Customer_Database.pdf`. |
 | **A CISO** | Open `09_GRC_Tools_Experience/GreenLeaf_GRC_Dashboard.pdf`. |
-| **A Future Employer** | Start with `00_Project_Methodology.pdf` to understand my approach. |
+| **A Future Employer** | Start with `00_Project_Methodology.md` to understand my approach. |
 
 ---
 
