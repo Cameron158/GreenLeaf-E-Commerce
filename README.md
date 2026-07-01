@@ -49,8 +49,8 @@ This portfolio showcases my practical GRC skills through a simulated engagement 
 
 | You Are... | Look At... |
 | :--- | :--- |
-| **A Hiring Manager** | Open `04_Executive_Summaries/Board_Dashboard_June2026.pdf` for a 1-page overview. |
-| **A GRC Professional** | Open `01_Risk_Register/Risk_Register.xlsx` and `03_Compliance_Mapping/` folders. |
+| **A Hiring Manager** | Open `04 Executive Reports/Board_Dashboard_June2026.pdf` for a 1-page overview. |
+| **A GRC Professional** | Open `01 Risk Register/Risk Register.xlsx` and `03_Compliance_Mapping/` folders. |
 | **An Auditor** | Open `05_Audit_Reports/Audit_Report_GreenLeaf.pdf` to see NC reports. |
 | **A Privacy Officer** | Open `07_Privacy_DPIA/DPIA_GreenLeaf_Customer_Database.pdf`. |
 | **A CISO** | Open `09_GRC_Tools_Experience/GreenLeaf_GRC_Dashboard.pdf`. |
